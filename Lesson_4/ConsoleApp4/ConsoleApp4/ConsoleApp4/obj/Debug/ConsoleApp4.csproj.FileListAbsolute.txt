@@ -1,0 +1,7 @@
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Robocode\Documents\Biliy Danylo\Unity\Lesson_4\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
