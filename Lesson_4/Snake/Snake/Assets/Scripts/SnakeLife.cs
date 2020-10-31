@@ -67,4 +67,14 @@ public class SnakeLife : MonoBehaviour
             buff = 0;
         }
     }
+
+    public void DestroySnake()
+    {
+        direction = new Vector2(0, 0);
+        foreach(var tail in SnakeTail)
+        {
+            Destroy(tail);
+        }
+        Destroy(gameObject);
+    }
 }

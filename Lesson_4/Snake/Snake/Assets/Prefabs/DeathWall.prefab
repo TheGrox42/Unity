@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6087820600361500328}
   - component: {fileID: 4271425311566878584}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: DeathWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
