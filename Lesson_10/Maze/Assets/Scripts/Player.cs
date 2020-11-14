@@ -15,17 +15,17 @@ public class Player : MonoBehaviour
     {
         if (Input.GetAxis("Horizontal") < 0)
         {
-            GetComponent<Rigidbody>().velocity += new Vector3(1, 0, 0);
+            GetComponent<Rigidbody>().velocity += new Vector3(0.5f, 0, 0);
         }else if(Input.GetAxis("Horizontal") > 0){
-            GetComponent<Rigidbody>().velocity -= new Vector3(1, 0, 0);
+            GetComponent<Rigidbody>().velocity -= new Vector3(0.5f, 0, 0);
         }
 
         if (Input.GetAxis("Vertical") < 0)
         {
-            GetComponent<Rigidbody>().velocity += new Vector3(0, 0, 1);
+            GetComponent<Rigidbody>().velocity += new Vector3(0, 0, 0.5f);
         }
         else if (Input.GetAxis("Vertical") > 0){
-            GetComponent<Rigidbody>().velocity -= new Vector3(0, 0, 1);
+            GetComponent<Rigidbody>().velocity -= new Vector3(0, 0, 0.5f);
         }
     }
 }
