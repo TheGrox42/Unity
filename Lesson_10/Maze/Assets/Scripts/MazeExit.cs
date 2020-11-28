@@ -17,9 +17,10 @@ public class MazeExit : MonoBehaviour
         
     }
 
-    private void onTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "player")
+        
+        if (other.tag == "Player")
         {
             Debug.Log("player find the exit of maze");
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
